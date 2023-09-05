@@ -1,9 +1,7 @@
 Joomla1.5.999
 =============
 
-[![Join the chat at https://gitter.im/PhilETaylor/Joomla1.5.999](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PhilETaylor/Joomla1.5.999?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-Joomla 1.5.x End Of Life + all hot fixes from the community
+Joomla 1.5.x End Of Life + all hot fixes from the community, updated by JoomlaWorks with improvements for MySQL 8 (and others).
 
 This repo is a stock Joomla 1.5.26 install as provided officially by Joomla.org, but then with all community suppied hotfixes as and when available.
 
@@ -12,8 +10,10 @@ Like it or not, Joomla 1.5.26 is end of life, but still powers a huge number of 
 
 History
 =============
-1-Aug-2013
+**6-Sep-2023**
+Initial improvements in com_content for MySQL 8.
 
+**1-Aug-2013**
 Hotfix to prevent file upload vulnerbility in all Joomla Versions
 @see http://joomlacode.org/gf/project/joomla/tracker/?action=TrackerItemEdit&tracker_item_id=31626
 
